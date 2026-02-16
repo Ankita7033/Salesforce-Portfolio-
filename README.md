@@ -15,6 +15,6 @@ Aspiring Salesforce Admin/Developer with hands-on experience in automation, appr
 - Apex (if applicable)
 
 ## Projects
-1. Recruitment App
+1. HireVintage App
 2. Student Management System
 3. Scholarship Approval Process
