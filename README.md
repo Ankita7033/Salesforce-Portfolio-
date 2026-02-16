@@ -1,1 +1,20 @@
 # Salesforce-Portfolio-
+
+# Anki | Salesforce Portfolio
+
+## About Me
+Aspiring Salesforce Admin/Developer with hands-on experience in automation, approval processes, and custom applications.
+
+## Skills
+- Custom Objects
+- Master-Detail Relationships
+- Record Triggered Flow
+- Approval Process
+- Reports & Dashboards
+- Validation Rules
+- Apex (if applicable)
+
+## Projects
+1. Recruitment App
+2. Student Management System
+3. Scholarship Approval Process
