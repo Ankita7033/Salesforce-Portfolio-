@@ -12,7 +12,6 @@ Aspiring Salesforce Admin/Developer with hands-on experience in automation, appr
 - Approval Process
 - Reports & Dashboards
 - Validation Rules
-- Apex (if applicable)
 
 ## Projects
 1. HireVintage App
